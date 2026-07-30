@@ -180,8 +180,8 @@ This dashboard helps stakeholders:
 |------|-------------|
 | 📊 Power BI Dashboard (.pbix) | Interactive dashboard for Executive Overview & Open PO Monitoring |
 | 📄 Dataset (.xlsx) | Raw and cleaned Purchase Order data |
-| 🖼 Dashboard Preview | Dashboard screenshots |
-| 📘 README.md | Project documentation |
+| 🖼 Dashboard Preview | Dashboard pdf |
+| 📘 README.md | Project document |
 
 ---
 
